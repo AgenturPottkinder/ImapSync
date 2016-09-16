@@ -75,6 +75,10 @@ To run this script you need to run ```composer install``` at least once to creat
 
 If everything is set up just start ./run.php and you should get output.
 
+## Important Notice
+
+If anything went wrong this is not the fault of me or Pottkinder UG. You are running this script on your free will and should create backups and tests before running this script.
+
 ## Contact Informations
 
 Created by Bastian Bringenberg for Agency Pottkinder UG Germany. Contact me at [bastian@agentur-pottkinder.de](mailto:bastian@agentur-pottkinder.de).
