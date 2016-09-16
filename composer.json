@@ -1,6 +1,6 @@
 {
   "name": "Pottkinder/ImapSync",
-  "description": "United Domains Reselling API Bundle",
+  "description": "Manages multiple imapsyncs as daemon",
   "minimum-stability": "stable",
   "license": "proprietary",
   "autoload": {
