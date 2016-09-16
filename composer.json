@@ -1,0 +1,15 @@
+{
+  "name": "Pottkinder/ImapSync",
+  "description": "United Domains Reselling API Bundle",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "autoload": {
+    "psr-4": {"Pottkinder\\ImapSync\\": "Classes/"}
+  },
+  "authors": [
+    {
+      "name": "Bastian Bringenberg",
+      "email": "bastian@agentur-pottkinder.de"
+    }
+  ]
+}
